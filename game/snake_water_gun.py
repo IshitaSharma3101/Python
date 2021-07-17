@@ -37,4 +37,3 @@ elif result:
     print("You win.")
 else:
     print("You lose.")
-
